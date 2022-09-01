@@ -1,4 +1,4 @@
-word = list("pussy")
+word = list("hangman")
 wronguesslist = []
 length = len(word)
 print("_ "*length)
